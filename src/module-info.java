@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author marcello
+ *
+ */
+module SimpleCrud {
+}
