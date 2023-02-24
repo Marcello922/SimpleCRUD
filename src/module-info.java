@@ -6,4 +6,5 @@
  *
  */
 module SimpleCrud {
+	requires java.desktop;
 }
